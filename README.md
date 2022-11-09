@@ -6,9 +6,9 @@
 The deck in this repo contains the font editor and following additional fonts:
 
 Custom fonts by 1jss
-- "Compact", a compact sans serif font by 1jss
-- "Typewriter", a round serif font by 1jss
-- "Curseve", an italic font by 1jss
+- "Compact", a compact sans serif font
+- "Typewriter", a round serif font
+- "Curseve", an italic font
 
 Monospace fonts converted by [ktye](https://github.com/ktye) 
 - "f10x20"
