@@ -5,7 +5,7 @@
 
 The deck in this repo contains the font editor and following additional fonts:
 
-Custom fonts by 1jss
+Custom fonts by [1jss](https://github.com/1jss)
 - "Compact", a compact sans serif font
 - "Typewriter", a round serif font
 - "Curseve", an italic font
