@@ -10,11 +10,29 @@ This deck cincludes the following fonts
 
 ### Standard fonts by [John Earnest](https://github.com/JohnEarnest)
 - **body**, compact UI font of Decker
-- **mono**, bolder font used in menus
+
+![body](./images/body.png)
+
+- **menu**, bolder font used in menus
+
+![menu](./images/menu.png)
+
+- **mono**, small monospaced font
+
+![mono](./images/mono.png)
+
 - **deckbuilder**, bold large slab font
+
+![deckbuilder](./images/deckbuilder.png)
 - **olympiad**, serif font
+
+![olympiad](./images/olympiad.png)
 - **olympiad_italic**, _italic_ serif font
+
+![olympiad_italic](./images/olympiad_italic.png)
 - **olympiad_title**, large serif font
+
+![olympiad_title](./images/olympiad_title.png)
 
 ### Custom fonts by [1jss](https://github.com/1jss)
 **compact**, a compact sans serif font
@@ -31,9 +49,12 @@ This deck cincludes the following fonts
 
 ### Monospace fonts converted by [ktye](https://github.com/ktye) 
 **f10x20**, a 10x20 px monospaced font
+
 ![f10x20](./images/f10x20.png)
 
 **f16x32**, a 16x32 px monospaced font
+
+![f16x32](./images/f16x32.png)
 
 **vt220**, a monospaced font with scan-lines effect
 
