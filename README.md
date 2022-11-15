@@ -73,7 +73,9 @@ This deck cincludes the following fonts
 ![lucx13](./images/lucx13.png)
 
 ## iconfonts.deck
-Custom icons by [1jss](https://github.com/1jss)
+
+### Custom icons by [1jss](https://github.com/1jss)
+
 **sweet-sixteen** (Work in progress)
 
 ![sweet-sixteen](./images/sweet-sixteen.png)
