@@ -47,7 +47,7 @@ This deck cincludes the following fonts
 
 ![curseve](./images/curseve.png)
 
-**bodoni**, a formal and decorative sans serif
+**bodoni**, a formal and decorative serif font
 
 ![bodoni](./images/bodoni.png)
 
