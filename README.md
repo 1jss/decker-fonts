@@ -47,6 +47,10 @@ This deck cincludes the following fonts
 
 ![curseve](./images/curseve.png)
 
+**bodoni**, a formal and decorative sans serif
+
+![bodoni](./images/bodoni.png)
+
 ### Monospace fonts converted by [ktye](https://github.com/ktye) 
 **f10x20**, a 10x20 px monospaced font
 
